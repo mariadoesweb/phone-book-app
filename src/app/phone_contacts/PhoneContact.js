@@ -7,8 +7,6 @@ import { ListGroupItem, Button } from 'reactstrap';
 const PhoneContact = (props) => {
 
 
-
-
     return (
         <ListGroupItem>
             <div className='contact-name-surname'>

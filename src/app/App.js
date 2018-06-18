@@ -86,7 +86,7 @@ class App extends Component {
     }
   };
 
-  // Send added contact on server
+  // Send added contact to server
   submitAddedContact = (c) => {
     dataService.sendNewContact(c);
   };
