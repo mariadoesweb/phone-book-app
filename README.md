@@ -1,6 +1,6 @@
-## ** REACT SHOW **
+## ** PHONE BOOK APP **
 
-Single page application written in ReactJS, where users can see list of popular TV Shows and its details like number of seasons, cast etc. App uses [TVMAZE](http://www.tvmaze.com/api) API.
+Phone book is ReactJS app that works like a real phone book. You can store, view or search contacts in your phone book.
 
 
 ### **TECHNOLOGIES**
