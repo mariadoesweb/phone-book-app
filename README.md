@@ -12,7 +12,7 @@ Phone book is ReactJS app that works like a real phone book. You can store, view
 
 ### **TECHNOLOGIES**
 
-HTML5, CSS3, JavaScript (ES6), ReactJS, reactstrap, Npm
+HTML5, CSS3, JavaScript (ES6), ReactJS, reactstrap, npm
 
 
 
