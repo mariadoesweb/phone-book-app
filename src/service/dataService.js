@@ -3,7 +3,7 @@ import Contact from '../entities/Contact';
 
 class ContactsRequest {
     allContactsData = () => {
-     return fetch(`http://www.mariadoesweb.com/api/api.php/contacts`) 
+     return fetch(`https://www.mariadoesweb.com/api/api.php/contacts`) 
             .then((response) => response.json())
             .then((contactsList) => {
                 return contactsList.map((contact, i) => {
@@ -13,7 +13,7 @@ class ContactsRequest {
     };
 
     sendNewContact = (newContact) => {
-        return fetch('http://www.mariadoesweb.com/api/api.php/contacts', {
+        return fetch('https://www.mariadoesweb.com/api/api.php/contacts', {
                 method: 'post',
                 headers: {
                     'Accept': 'application/json',
@@ -30,7 +30,7 @@ class ContactsRequest {
     };
 
     deleteContact = (contactToChange) => {
-        return fetch(`http://www.mariadoesweb.com/api/api.php/contacts/${contactToChange}`, {
+        return fetch(`https://www.mariadoesweb.com/api/api.php/contacts/${contactToChange}`, {
             headers: {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json'
