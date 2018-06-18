@@ -2,6 +2,9 @@
 
 Phone book is ReactJS app that works like a real phone book. You can store, view or search contacts in your phone book.
 
+[View Demo](https://mariaradovanovic.github.io/phone-book-app/)
+
+
 ### **FUNCTIONALITIES** 
 
 - List all contacts
