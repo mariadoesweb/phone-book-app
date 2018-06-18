@@ -4,6 +4,7 @@ Phone book is ReactJS app that works like a real phone book. You can store, view
 
 [View Demo](https://mariaradovanovic.github.io/phone-book-app/)
 
+- - - -
 
 ### **FUNCTIONALITIES** 
 
@@ -12,12 +13,13 @@ Phone book is ReactJS app that works like a real phone book. You can store, view
 - Add a new contact to the list
 - Delete a contact from the list
 
+- - - -
 
 ### **TECHNOLOGIES**
 
 HTML5, CSS3, JavaScript (ES6), ReactJS, reactstrap, npm
 
-
+- - - -
 
 ### **SCREENSHOTS**
 
