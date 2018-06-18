@@ -22,4 +22,4 @@ HTML5, CSS3, JavaScript (ES6), React, Bootstrap for React, Npm
 ![alt text](https://raw.githubusercontent.com/mariaradovanovic/phone-book-app/master/images/addnewcontact.png)
 
 
-![alt text](https://raw.githubusercontent.com/mariaradovanovic/phone-book-app/master/images/addedcontacttolist.png)
+![alt text](https://raw.githubusercontent.com/mariaradovanovic/phone-book-app/master/images/addedcontactolist.png)
