@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #f6f6f6 !important;
+}
+
+.header {
+  margin-top: 44px;
+  text-align: center;
+}
+
+.name-of-app {
+  text-align: center;
+  color: #212121;
+  letter-spacing: 1px;
+  padding-bottom: 24px;
+  display: inline-block;
+}
+
+.phone-contacts {
+  text-align: left;
+  float: left;
+}
+
+.phone-contact-field {
+  margin-top: 23px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 44px;
+}
+
+.remove-contact {
+  float: right;
+  margin-top: 10px;
+}
+
+.contact-name-surname {
+  float: left;
+}
+
+.phone-contact-field .btn-primary {
+  float: right;
+  margin-bottom: 24px;
+  padding: 7px 24px;
+}
+
+.search-for-contact {
+  margin-bottom: 24px;
+}
+
+.contact-data {
+  margin-top: 10px;
+}
+
+.contact-number {
+  display: inline-block;
+  padding-left: 5px;
+}
+
+.fa.fa-search {
+  position: absolute;
+  top: 75px;
+  left: 27px;
+  font-size: 15px;
+  color: #6e757c;
+}
+
+.search-for-contact  {
+  padding-left: 32px !important;
+}
+
+.fa.fa-address-book {
+  font-size: 41px;
+  padding-right: 24px;
+}
+
+.contact-name-surname i, .contact-name-surname h6 {
+  color: #a6a6a6;
+}
