@@ -1,6 +1,6 @@
 ## ** PHONE BOOK APP **
 
-Phone book is ReactJS app that works like a real digital phone book application. You can store, view or search contacts in your phone book.
+Phone Book is my first full stack web app that works like a real digital phone book application. You can store, view or search contacts in your phone book. Front-end done with ReactJS, back-end with PHP and database used is MySQL.
 
 [View Demo](https://mariaradovanovic.github.io/phone-book-app/)
 
