@@ -1,6 +1,6 @@
 ## ** PHONE BOOK APP **
 
-Phone book is ReactJS app that works like a real phone book. You can store, view or search contacts in your phone book.
+Phone book is ReactJS app that works like a real digital phone book application. You can store, view or search contacts in your phone book.
 
 [View Demo](https://mariaradovanovic.github.io/phone-book-app/)
 
@@ -17,7 +17,7 @@ Phone book is ReactJS app that works like a real phone book. You can store, view
 
 ### **TECHNOLOGIES**
 
-HTML5, CSS3, JavaScript (ES6), ReactJS, reactstrap, npm
+HTML5, CSS3, JavaScript (ES6), ReactJS, reactstrap, npm, PHP, MySQL
 
 - - - -
 
